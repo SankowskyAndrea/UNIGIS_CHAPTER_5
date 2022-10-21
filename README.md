@@ -1,1 +1,1 @@
-# UNIGIS_chapter_5
+This is the HTML used for the DOM manipulation training.
